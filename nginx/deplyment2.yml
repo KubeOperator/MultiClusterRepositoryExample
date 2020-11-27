@@ -11,3 +11,4 @@ spec:
   type: NodePort   #这个是端口类型
   selector:
     name: nginx
+    sdfsdfsf
