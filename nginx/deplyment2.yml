@@ -10,4 +10,4 @@ spec:
       nodePort: 30080    #外网访问端口
   type: NodePort   #这个是端口类型
   selector:
-    name: nginx11111333ddddddddddffff
+    name: nginx11111333ddddddddddffffddddd
