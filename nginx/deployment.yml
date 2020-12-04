@@ -7,7 +7,7 @@ spec:
     - port: 8000
       targetPort: 80
       protocol: TCP
-      nodePort: 30080    #外网访问端口
+      nodePort: 30085    #外网访问端口
   type: NodePort   #这个是端口类型
   selector:
     name: nginx
